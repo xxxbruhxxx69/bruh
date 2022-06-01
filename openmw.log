@@ -1,0 +1,34 @@
+[06:59:34.202 I] Loading config file: C:\Users\WOJTEK\Documents\My Games\OpenMW/openmw.cfg
+[06:59:34.209 I] Loading config file: D:\OpenMW\OpenMW 0.47.0/openmw.cfg
+[06:59:34.211 I] OpenMW version 0.47.0
+[06:59:34.211 I] Revision: bac679d5f5
+[06:59:34.211 I] Using default (English) font encoding.
+[06:59:34.211 I] OSG version: 3.6.5
+[06:59:34.211 I] SDL version: 2.0.12
+[06:59:34.212 I] Loading settings file: D:\OpenMW\OpenMW 0.47.0/defaults.bin
+[06:59:34.213 I] Loading settings file: C:\Users\WOJTEK\Documents\My Games\OpenMW/settings.cfg
+[06:59:34.378 I] Adding BSA archive D:/Morrowind VANILLA/Data Files\Morrowind.bsa
+[06:59:34.396 I] Adding BSA archive D:/Morrowind VANILLA/Data Files\Tribunal.bsa
+[06:59:34.398 I] Adding BSA archive D:/Morrowind VANILLA/Data Files\Bloodmoon.bsa
+[06:59:34.400 I] Adding data directory resources\vfs
+[06:59:34.400 I] Adding data directory D:/Morrowind VANILLA/Data Files
+[06:59:34.400 I] Adding data directory C:/Users/WOJTEK/AppData/Local/ModOrganizer/Morrowind/mods/Maxed Out Atrtribute Modifiers
+[06:59:34.400 I] Adding data directory C:/Users/WOJTEK/AppData/Local/ModOrganizer/Morrowind/overwrite
+[06:59:34.455 I] Loading keybindings file: C:\Users\WOJTEK\Documents\My Games\OpenMW/input_v3.xml
+[06:59:34.531 I] Initializing OpenAL...
+[06:59:34.536 I] Opened "OpenAL Soft on Głośniki (Realtek(R) Audio)"
+[06:59:34.536 I]   ALC Version: 1.1
+[06:59:34.536 I]   ALC Extensions: ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_DEDICATED ALC_EXT_disconnect ALC_EXT_EFX ALC_EXT_thread_local_context ALC_SOFT_device_clock ALC_SOFT_HRTF ALC_SOFT_loopback ALC_SOFT_output_limiter ALC_SOFT_pause_device
+[06:59:34.578 I]   Vendor: OpenAL Community
+[06:59:34.578 I]   Renderer: OpenAL Soft
+[06:59:34.578 I]   Version: 1.1 ALSOFT 1.20.1
+[06:59:34.578 I]   Extensions: AL_EXT_ALAW AL_EXT_BFORMAT AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_BFORMAT AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_EXT_SOURCE_RADIUS AL_EXT_STEREO_ANGLES AL_LOKI_quadriphonic AL_SOFT_bformat_ex AL_SOFT_block_alignment AL_SOFT_deferred_updates AL_SOFT_direct_channels AL_SOFT_direct_channels_remix AL_SOFTX_effect_chain AL_SOFTX_events AL_SOFTX_filter_gain_ex AL_SOFT_gain_clamp_ex AL_SOFT_loop_points AL_SOFTX_map_buffer AL_SOFT_MSADPCM AL_SOFT_source_latency AL_SOFT_source_length AL_SOFT_source_resampler AL_SOFT_source_spatialize
+[06:59:34.578 I] HRTF disabled
+[06:59:34.578 I] Allocated 256 sound sources
+[06:59:34.578 I] Low-pass filter supported
+[06:59:34.578 I] EAX Reverb supported
+[06:59:34.580 I] Enumerated output devices:
+[06:59:34.580 I]   OpenAL Soft on Głośniki (Realtek(R) Audio)  OpenAL Soft on PL2730H (NVIDIA High Definition Audio)
+[06:59:34.581 I] Enumerated HRTF names:
+[06:59:34.581 I]   Built-In HRTF
+[06:59:48.345 I] Loading content file Morrowind.esm
